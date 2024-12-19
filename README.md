@@ -1,6 +1,5 @@
 # Dodo Alive: Simulation and Control
-This repository is part of the "Dodo Alive! - Resurrecting the Dodo with Robotics and AI: Simulation & Control" practical course of the Summer Semester 2022.
-The contributing team members were: Christopher Narr, Roger Wang, Bernd Vienenkötter, Gawak Russek. 
+This repository is part of the "Dodo Alive! - Resurrecting the Dodo with Robotics and AI: Simulation & Control" practical course
 
 ## Repository Structure
 The following folders and files exist:
